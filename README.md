@@ -9,6 +9,10 @@ Lectures and Praticals
 ## Lecture 3
 - Bow
 - Heatmap
-- Visualizer
+- Visualize
 - PAC
+- Cosine Similarity
+- FD-IDF Calculations
+- Bag-of- Words / BoW
+
   
