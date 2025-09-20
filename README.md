@@ -12,7 +12,7 @@ Lectures and Praticals
 - Visualize
 - PAC
 - Cosine Similarity
-- FD-IDF Calculations
+- TF-IDF Calculations
 - Bag-of- Words / BoW
 
   
