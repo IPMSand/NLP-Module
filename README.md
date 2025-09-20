@@ -5,3 +5,10 @@ Lectures and Praticals
 - Lemmetaization
 - Stemming
 - Stop-words
+
+## Lecture 3
+- Bow
+- Heatmap
+- Visualizer
+- PAC
+  
