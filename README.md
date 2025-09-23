@@ -15,4 +15,6 @@ Lectures and Praticals
 - TF-IDF Calculations
 - Bag-of- Words / BoW
 
+## Lecture 4
+
   
