@@ -16,5 +16,10 @@ Lectures and Praticals
 - Bag-of- Words / BoW
 
 ## Lecture 4
+- Contextual 
+- Dependency Parsing 
+- Constitution Parsing 
+- POS Tag
+- Sentiment Analysis 
 
   
